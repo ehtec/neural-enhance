@@ -3,6 +3,8 @@ train/
 valid/
 *.pkl.bz2
 !ne2x-photo-default-0.3.pkl.bz2
+!ne4x-photo-default-0.3.pkl.bz2
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
